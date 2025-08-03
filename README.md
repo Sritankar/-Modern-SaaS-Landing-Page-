@@ -76,6 +76,7 @@ yarn dev
 ```
 
 The application will be available at `http://localhost:5173`
+The deployement link - https://modern-saa-s-landing-page-fawn.vercel.app/
 
 ## 📦 Dependencies
 
