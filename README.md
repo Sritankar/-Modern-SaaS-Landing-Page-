@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/admybrand-ai-suite.git
+git clone https://github.com/Sritankar/-Modern-SaaS-Landing-Page-.git
 cd admybrand-ai-suite
 ```
 
@@ -76,6 +76,7 @@ yarn dev
 ```
 
 The application will be available at `http://localhost:5173`
+
 The deployement link - https://modern-saa-s-landing-page-fawn.vercel.app/
 
 ## 📦 Dependencies
